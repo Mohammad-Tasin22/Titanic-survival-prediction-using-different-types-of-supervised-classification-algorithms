@@ -6,16 +6,16 @@ This project predicts whether a passenger survived the Titanic disaster using th
 
 ## Project Highlights
 
-1. Dataset loaded using: df = sns.load_dataset("titanic")
-2. Performed data cleaning (handling missing values like age, embarked, deck, etc.)
-3. Applied feature encoding (Label Encoding, One-Hot Encoding)
-4.Used feature scaling where necessary
+1. Dataset loaded using: df = sns.load_dataset("titanic").
+2. Performed data cleaning (handling missing values like age, embarked, deck, etc.).
+3. Applied feature encoding (Label Encoding, One-Hot Encoding).
+4.Used feature scaling where necessary.
 5.Trained multiple supervised classification models, including:
-    i. Logistic Regression
-    ii. Decision Tree
-    iii. Random Forest
-    iv. K-Nearest Neighbors (KNN)
-    v. Support Vector Machine (SVM)
-    vi. Naive Bayes
+    i. Logistic Regression.
+    ii. Decision Tree.
+    iii. Random Forest.
+    iv. K-Nearest Neighbors (KNN).
+    v. Support Vector Machine (SVM).
+    vi. Naive Bayes.
 
 ** Compared accuracy and evaluation metrics for all models **
